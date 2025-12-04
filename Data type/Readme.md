@@ -16,15 +16,9 @@ A float is a number that has a decimal point.
 It is used when you need more precision than whole numbers.
 
 Examples of floats:
-
 3.14
-
 0.5
-
 -2.7
-
 10.0
-
 99.99
-
 A float is simply a real number with decimals.
