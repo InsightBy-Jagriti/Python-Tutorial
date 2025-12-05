@@ -1,4 +1,4 @@
-* What is int in Python?
+*** What is int in Python?**
 
 int stands for integer.
 It is a data type in Python used to store whole numbers.
