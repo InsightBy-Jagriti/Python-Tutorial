@@ -1,4 +1,4 @@
-*** What is int in Python?**
+** What is int in Python?**
 
 int stands for integer.
 It is a data type in Python used to store whole numbers.
@@ -10,8 +10,7 @@ These numbers:
 ✔ Can be negative
 ✔ Can also be zero
 
-* What is float in Python?
-
+**What is float in Python?**
 A float is a number that has a decimal point.
 It is used when you need more precision than whole numbers.
 
