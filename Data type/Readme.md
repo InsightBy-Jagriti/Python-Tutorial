@@ -22,3 +22,24 @@ Examples of floats:
 10.0,
 99.99
  A float is simply a real number with decimals.
+
+* What is a string in Python?
+
+A string is a sequence of characters enclosed inside quotes.
+It is used to store text.
+
+Examples:
+
+"Jagriti"
+"Hello"
+"123"
+"Python is amazing"
+
+
+A string can contain:
+
+✔ letters
+✔ numbers
+✔ symbols
+✔ spaces
+✔ full sentences
