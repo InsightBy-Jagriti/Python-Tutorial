@@ -30,9 +30,9 @@ It is used to store text.
 
 Examples:
 
-"Jagriti"
-"Hello"
-"123"
+"Jagriti", 
+"Hello", 
+"123", 
 "Python is amazing"
 
 
