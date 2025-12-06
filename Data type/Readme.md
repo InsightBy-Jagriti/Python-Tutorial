@@ -44,10 +44,9 @@ A string can contain:
 ✔ spaces
 ✔ full sentences
 
-What is bool in Python?
+***What is bool in Python?***
 
 A boolean represents only two possible values:
-
 ✔ True
 ✔ False
 
