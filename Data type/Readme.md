@@ -43,3 +43,24 @@ A string can contain:
 ✔ symbols
 ✔ spaces
 ✔ full sentences
+
+What is bool in Python?
+
+A boolean represents only two possible values:
+
+✔ True
+✔ False
+
+These are used in:
+
+conditions
+
+comparisons
+
+decision-making
+
+loops
+
+logical operations
+
+Booleans help Python answer yes/no questions.
