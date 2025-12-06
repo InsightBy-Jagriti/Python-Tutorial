@@ -51,10 +51,10 @@ A boolean represents only two possible values:
 ✔ False
 
 These are used in:
-conditions
-comparisons
-decision-making
-loops
+conditions,
+comparisons,
+decision-making,
+loops,
 logical operations
 
 Booleans help Python answer yes/no questions.
