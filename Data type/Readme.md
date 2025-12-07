@@ -58,3 +58,18 @@ loops,
 logical operations
 
 Booleans help Python answer yes/no questions.
+
+***What is None in Python?***
+
+None represents no value, empty value, or nothing.
+It is Python’s way of saying:
+
+“There is something here, but it currently has no value.”
+
+It is often used when:
+
+a function doesn't return anything
+
+a variable is created but not assigned yet
+
+we want a clear "empty" placeholder
