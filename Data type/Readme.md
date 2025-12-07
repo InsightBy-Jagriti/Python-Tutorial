@@ -61,6 +61,7 @@ Booleans help Python answer yes/no questions.
 
 ***What is None in Python?***
 None represents no value, empty value, or nothing.
+
 It is Python’s way of saying:
 
 “There is something here, but it currently has no value.”
