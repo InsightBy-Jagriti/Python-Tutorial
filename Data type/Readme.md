@@ -74,3 +74,38 @@ a function doesn't return anything
 a variable is created but not assigned yet
 
 we want a clear "empty" placeholder
+
+***What is complex in Python?***
+
+A complex number is a number that has:
+
+a real part
+
+an imaginary part
+
+It is written as:
+
+a + bj
+
+
+Where:
+
+a → real part
+
+b → imaginary part
+
+j → represents √–1 (Python uses j instead of i)
+
+Examples:
+
+3 + 4j
+7 - 2j
+0 + 5j
+
+
+Complex numbers are often used in:
+
+✔ scientific calculations
+✔ electrical engineering
+✔ signal processing
+✔ math-heavy applications
