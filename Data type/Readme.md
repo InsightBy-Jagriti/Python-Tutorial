@@ -78,9 +78,7 @@ we want a clear "empty" placeholder
 ***What is complex in Python?***
 
 A complex number is a number that has:
-
-a real part
-
+a real part, 
 an imaginary part
 
 It is written as:
