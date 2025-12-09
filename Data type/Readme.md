@@ -107,3 +107,23 @@ Complex numbers are often used in:
 ✔ electrical engineering
 ✔ signal processing
 ✔ math-heavy applications
+
+***What is a List in Python?***
+
+A list is a data type used to store multiple values in one variable.
+Lists are ordered, changeable, and allow duplicates.
+
+They are written inside square brackets [].
+
+✔ Example
+fruits = ["apple", "banana", "mango"]
+
+✔ Key Points
+
+Items have fixed positions (index)
+
+You can add, remove, or modify items
+
+Repeated values are allowed
+
+Supports mixed data types
