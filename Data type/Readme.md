@@ -127,3 +127,23 @@ You can add, remove, or modify items
 Repeated values are allowed
 
 Supports mixed data types
+
+***What is a Tuple in Python?***
+
+A tuple is a data type used to store multiple values, similar to a list,
+but it is immutable — meaning its values cannot be changed after creation.
+
+Tuples are written inside parentheses ().
+
+✔ Example
+info = ("Jagriti", 22, "India")
+
+✔ Key Points
+
+Ordered (items have index)
+
+Cannot be modified (no adding, removing, or updating)
+
+Allows duplicate values
+
+Faster and safer than lists for fixed data
