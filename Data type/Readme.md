@@ -165,11 +165,11 @@ Result:
 
 ✔ Key Points
 
-1.No duplicate values
+1. No duplicate values
 
-2.Order is not preserved
+2. Order is not preserved
 
-3.Items cannot be accessed using index
+3. Items cannot be accessed using index
 
-4.Useful for removing duplicates and performing mathematical operations like union/intersection
+4. Useful for removing duplicates and performing mathematical operations like union/intersection
 
