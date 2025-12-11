@@ -147,3 +147,29 @@ Cannot be modified (no adding, removing, or updating)
 Allows duplicate values
 
 Faster and safer than lists for fixed data
+
+***What is a Set in Python?***
+
+A set is a data type used to store unique values.
+It is unordered, unindexed, and does not allow duplicates.
+
+Sets are written inside curly braces {}.
+
+✔ Example
+numbers = {1, 2, 3, 3, 4}
+
+
+Result:
+
+{1, 2, 3, 4}   # duplicate removed
+
+✔ Key Points
+
+1.No duplicate values
+
+2.Order is not preserved
+
+3.Items cannot be accessed using index
+
+4.Useful for removing duplicates and performing mathematical operations like union/intersection
+
