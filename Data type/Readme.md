@@ -173,3 +173,21 @@ Result:
 
 4. Useful for removing duplicates and performing mathematical operations like union/intersection
 
+***what is frozenset***
+A frozenset is just like a set, but it is immutable —
+once created, its values cannot be changed.
+
+It stores unique values and does not allow duplicates.
+
+✔ Example
+fs = frozenset([1, 2, 3, 3])
+
+✔ Key Points
+
+Unordered
+
+Cannot be modified
+
+No duplicate values
+
+Can be used as dictionary keys
