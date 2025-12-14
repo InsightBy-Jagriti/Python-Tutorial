@@ -191,3 +191,30 @@ Cannot be modified
 No duplicate values
 
 Can be used as dictionary keys
+
+***What is a Dictionary in Python?***
+
+A dictionary stores data in key–value pairs.
+It is used when you want to label your data, like:
+
+name → Jagriti  
+age → 22  
+city → Delhi
+
+
+Dictionaries are written inside curly braces {} with a key: value format.
+
+✔ Example
+student = {"name": "Jagriti", "age": 22, "city": "Delhi"}
+
+✔ Key Points
+
+Stores data as key:value
+
+Keys must be unique
+
+Order is preserved (in modern Python)
+
+Values can be changed
+
+Very useful for structured data
