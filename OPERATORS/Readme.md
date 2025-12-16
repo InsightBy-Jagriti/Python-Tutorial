@@ -1,1 +1,58 @@
+🧩 What are Operators in Python?
 
+Operators are symbols that tell Python to perform an action.
+They work on values and variables to do tasks like calculations, comparisons, and decision-making.
+
+Example:
+
+a + b
+a > b
+x and y
+
+✔ Types of Operators
+1️⃣ Arithmetic Operators
+
+Used for basic math.
++ - * / // % **
+
+2️⃣ Comparison Operators
+
+Used to compare two values.
+== != > < >= <=
+
+3️⃣ Logical Operators
+
+Used for True/False conditions.
+and or not
+
+4️⃣ Assignment Operators
+
+Used to assign or update values.
+= += -= *= /= %=
+
+5️⃣ Membership Operators
+
+Check if a value exists inside another.
+in not in
+
+6️⃣ Identity Operators
+
+Check if two variables refer to the same memory.
+is is not
+
+7️⃣ Bitwise Operators
+
+Work on numbers at the binary level.
+& | ^ ~ << >>
+
+✔ Why operators are important?
+
+Perform calculations
+
+Compare values
+
+Create decision-based logic
+
+Build conditions for loops & functions
+
+Work with data structures
