@@ -58,6 +58,7 @@ Build conditions for loops & functions
 Work with data structures
 
 ***WHAT IS ARITHMETIC OPERATOR***
+
 Arithmetic operators are used to perform mathematical calculations on numbers like addition, subtraction, multiplication, etc.
 
 They mostly work with int and float data types.
