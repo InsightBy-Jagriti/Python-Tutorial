@@ -65,13 +65,13 @@ They mostly work with int and float data types.
 
 ✔ Types of Arithmetic Operators
 Operator	Meaning
-+	Addition
--	Subtraction
-*	Multiplication
-/	Division
-//	Floor Division
-%	Modulus (Remainder)
-**	Exponent (Power)
+  +	Addition
+  -	Subtraction
+  *	Multiplication
+  /	Division
+  //	Floor Division
+  %	Modulus (Remainder)
+  **	Exponent (Power)
 ✔ Examples
 a = 10
 b = 3
