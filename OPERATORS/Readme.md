@@ -56,3 +56,29 @@ Create decision-based logic
 Build conditions for loops & functions
 
 Work with data structures
+
+***WHAT IS ARITHMETIC OPERATOR***
+Arithmetic operators are used to perform mathematical calculations on numbers like addition, subtraction, multiplication, etc.
+
+They mostly work with int and float data types.
+
+✔ Types of Arithmetic Operators
+Operator	Meaning
++	Addition
+-	Subtraction
+*	Multiplication
+/	Division
+//	Floor Division
+%	Modulus (Remainder)
+**	Exponent (Power)
+✔ Examples
+a = 10
+b = 3
+
+print(a + b)    # 13
+print(a - b)    # 7
+print(a * b)    # 30
+print(a / b)    # 3.333...
+print(a // b)   # 3
+print(a % b)    # 1
+print(a ** b)   # 1000
