@@ -89,3 +89,19 @@ print(a // b)   # 3
 print(a % b)    # 1
 
 print(a ** b)   # 1000
+
+***What are Comparison Operators?***
+
+Comparison operators are used to compare two values.
+They always return a boolean result → True or False.
+
+These operators help in decisions, conditions, and if-else statements.
+
+✔ List of Comparison Operators
+Operator	Meaning
+==	Equal to
+!=	Not equal to
+>	Greater than
+<	Less than
+>=	Greater than or equal to
+<=	Less than or equal to
