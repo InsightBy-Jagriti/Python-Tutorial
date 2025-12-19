@@ -105,6 +105,15 @@ Operator	Meaning
 <	Less than
 >=	Greater than or equal to
 <=	Less than or equal to
+| Operator | Meaning                  |
+| -------- | ------------------------ |
+| `==`     | Equal to                 |
+| `!=`     | Not equal to             |
+| `>`      | Greater than             |
+| `<`      | Less than                |
+| `>=`     | Greater than or equal to |
+| `<=`     | Less than or equal to    |
+
 
 
 ***What are Logical Operators?***
