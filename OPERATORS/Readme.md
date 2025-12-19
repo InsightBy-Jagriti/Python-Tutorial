@@ -119,3 +119,10 @@ Operator	Meaning
 and	True if both conditions are true
 or	True if at least one condition is true
 not	Reverses the result
+
+| Operator | Meaning                                    |
+| -------- | ------------------------------------------ |
+| `and`    | True if **both** conditions are true       |
+| `or`     | True if **at least one** condition is true |
+| `not`    | Reverses the result                        |
+
