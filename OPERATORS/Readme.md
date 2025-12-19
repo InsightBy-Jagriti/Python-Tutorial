@@ -105,3 +105,17 @@ Operator	Meaning
 <	Less than
 >=	Greater than or equal to
 <=	Less than or equal to
+
+
+***What are Logical Operators?***
+
+Logical operators are used to combine conditions.
+They work with boolean values (True / False) and return a boolean result.
+
+They are mainly used in if-else statements, loops, and validations.
+
+✔ Types of Logical Operators
+Operator	Meaning
+and	True if both conditions are true
+or	True if at least one condition is true
+not	Reverses the result
