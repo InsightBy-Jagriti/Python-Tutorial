@@ -137,3 +137,10 @@ not	Reverses the result
 | `or`     | True if **at least one** condition is true |
 | `not`    | Reverses the result                        |
 
+
+***What are Assignment Operators?***
+
+Assignment operators are used to assign values to variables
+and update existing values in a short and simple way.
+
+They help reduce code length and improve readability.
