@@ -138,9 +138,22 @@ not	Reverses the result
 | `not`    | Reverses the result                        |
 
 
+
 ***What are Assignment Operators?***
 
 Assignment operators are used to assign values to variables
 and update existing values in a short and simple way.
 
 They help reduce code length and improve readability.
+
+Types of Assignment Operators
+| Operator | Meaning                 |
+| -------- | ----------------------- |
+| `=`      | Assign value            |
+| `+=`     | Add and assign          |
+| `-=`     | Subtract and assign     |
+| `*=`     | Multiply and assign     |
+| `/=`     | Divide and assign       |
+| `//=`    | Floor divide and assign |
+| `%=`     | Modulus and assign      |
+| `**=`    | Power and assign        |
