@@ -160,5 +160,7 @@ Types of Assignment Operators
 
 
 x = 10
+
 x += 5   # same as x = x + 5
+
 x *= 2   # same as x = x * 2
