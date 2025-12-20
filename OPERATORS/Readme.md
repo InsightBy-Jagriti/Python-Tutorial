@@ -157,3 +157,8 @@ Types of Assignment Operators
 | `//=`    | Floor divide and assign |
 | `%=`     | Modulus and assign      |
 | `**=`    | Power and assign        |
+
+
+x = 10
+x += 5   # same as x = x + 5
+x *= 2   # same as x = x * 2
