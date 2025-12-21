@@ -171,3 +171,11 @@ x = 10
 x += 5   # same as x = x + 5
 
 x *= 2   # same as x = x * 2
+
+*Types of Membership Operators*
+
+| Operator | Meaning                              |
+| -------- | ------------------------------------ |
+| `in`     | Returns True if value is present     |
+| `not in` | Returns True if value is not present |
+
