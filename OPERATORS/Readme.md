@@ -158,6 +158,13 @@ Types of Assignment Operators
 | `%=`     | Modulus and assign      |
 | `**=`    | Power and assign        |
 
+***What are Membership Operators?***
+
+Membership operators are used to check whether a value exists inside a sequence or collection like a list, tuple, string, set, or dictionary.
+
+They return True or False.
+
+
 
 x = 10
 
