@@ -179,3 +179,10 @@ x *= 2   # same as x = x * 2
 | `in`     | Returns True if value is present     |
 | `not in` | Returns True if value is not present |
 
+Example
+
+fruits = ["apple", "banana", "mango"]
+
+print("apple" in fruits)      # True
+print("grapes" not in fruits) # True
+
