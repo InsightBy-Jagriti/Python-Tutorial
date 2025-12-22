@@ -187,3 +187,22 @@ print("apple" in fruits)      # True
 
 print("grapes" not in fruits) # True
 
+
+***What are Identity Operators?***
+
+Identity operators are used to check whether two variables point to the same object in memory.
+They do not compare values, they compare identity (memory location).
+
+Operators:
+
+is
+
+is not
+
+✔ Key Points
+
+is → True if both variables refer to the same object
+
+is not → True if they refer to different objects
+
+Mostly used with None, objects, and references
