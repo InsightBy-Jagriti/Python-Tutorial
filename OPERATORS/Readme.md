@@ -206,3 +206,8 @@ is → True if both variables refer to the same object
 is not → True if they refer to different objects
 
 Mostly used with None, objects, and references
+
+***what are Bitwise Operators in Python***
+
+Bitwise operators work on binary (0 and 1) representation of numbers.
+They are mostly used in low-level programming, performance optimization, and system logic.
