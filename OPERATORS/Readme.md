@@ -223,3 +223,8 @@ Types Of Bitwise Operator
 | `<<`     | Left Shift  | Shifts bits left        |                   |
 | `>>`     | Right Shift | Shifts bits right       |                   |
 
+Example :-
+a = 5   # 0101
+b = 3   # 0011
+
+
