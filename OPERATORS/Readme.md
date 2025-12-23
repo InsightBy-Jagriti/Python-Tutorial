@@ -211,3 +211,15 @@ Mostly used with None, objects, and references
 
 Bitwise operators work on binary (0 and 1) representation of numbers.
 They are mostly used in low-level programming, performance optimization, and system logic.
+
+Types Of Bitwise Operator
+
+| Operator | Name        | Meaning                 |                   |
+| -------- | ----------- | ----------------------- | ----------------- |
+| `&`      | AND         | 1 if both bits are 1    |                   |
+| `        | `           | OR                      | 1 if any bit is 1 |
+| `^`      | XOR         | 1 if bits are different |                   |
+| `~`      | NOT         | Inverts bits            |                   |
+| `<<`     | Left Shift  | Shifts bits left        |                   |
+| `>>`     | Right Shift | Shifts bits right       |                   |
+
