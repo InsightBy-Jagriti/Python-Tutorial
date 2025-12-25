@@ -22,7 +22,7 @@ Python uses conditional statements to control the flow of execution.
 | `>=`     | Greater than or equal to |
 | `<=`     | Less than or equal to    |
 
-## 🧩 if Statement (Python Basics)
+## 🧩 if Statement 
 
 The **`if` statement** allows a program to make decisions.  
 It runs a block of code **only when the given condition is true**.  
