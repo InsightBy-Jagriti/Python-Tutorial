@@ -21,3 +21,31 @@ Python uses conditional statements to control the flow of execution.
 | `<`      | Less than                |
 | `>=`     | Greater than or equal to |
 | `<=`     | Less than or equal to    |
+
+## 🧩 if Statement (Python Basics)
+
+The **`if` statement** allows a program to make decisions.  
+It runs a block of code **only when the given condition is true**.  
+If the condition is false, Python simply skips that block.
+
+### ✔ Why use `if`?
+- To check user inputs  
+- To validate data  
+- To control program flow  
+- For simple decision-making  
+
+### ✔ Key Points
+| Concept      | Description                                |
+|--------------|--------------------------------------------|
+| Condition    | Must evaluate to True or False             |
+| Execution    | Runs only when condition is true           |
+| else needed? | No, it's optional                          |
+| Use Case     | Single-condition checks                    |
+| Indentation  | Defines which code belongs to the `if`     |
+
+### ✔ Example Explanation
+The `if` checks whether a condition is true.  
+If it is true → the message prints.  
+If false → nothing happens.
+
+
