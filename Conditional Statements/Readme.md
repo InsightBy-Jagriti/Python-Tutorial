@@ -1,4 +1,4 @@
-**Conditional Statements in Python**
+***Conditional Statements in Python***
 
 Conditional statements allow a program to make decisions.
 They check a condition and execute different actions based on whether the condition is true or false.
