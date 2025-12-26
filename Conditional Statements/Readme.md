@@ -72,4 +72,3 @@ If the condition is false, the `else` block runs.
 Python checks the condition.  
 If it is true → code inside `if` runs.  
 Otherwise → code inside `else` runs.
-
