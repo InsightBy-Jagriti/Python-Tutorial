@@ -48,4 +48,28 @@ The `if` checks whether a condition is true.
 If it is true → the message prints.  
 If false → nothing happens.
 
+## 🧩 if–else Statement
+
+The **`if–else` statement** is used when a program must choose between **two possible outcomes**.  
+If the condition is true, the `if` block runs.  
+If the condition is false, the `else` block runs.
+
+### ✔ Why use `if–else`?
+- When there are exactly two choices  
+- To handle yes/no decisions  
+- To control alternative program flow  
+
+### ✔ Key Points
+| Concept      | Description                                      |
+|--------------|--------------------------------------------------|
+| Condition    | Must return True or False                        |
+| if block    | Executes when condition is true                 |
+| else block  | Executes when condition is false                |
+| Use Case    | Two-way decision making                         |
+| Indentation | Required for defining blocks                    |
+
+### ✔ Example Explanation
+Python checks the condition.  
+If it is true → code inside `if` runs.  
+Otherwise → code inside `else` runs.
 
