@@ -72,3 +72,28 @@ If the condition is false, the `else` block runs.
 Python checks the condition.  
 If it is true → code inside `if` runs.  
 Otherwise → code inside `else` runs.
+
+
+## 🧩 if–elif–else Statement 
+
+The **`if–elif–else` statement** is used when a program needs to check **multiple conditions**.  
+Python evaluates conditions from top to bottom and executes **only the first true block**.  
+If none of the conditions are true, the `else` block runs.
+
+### ✔ Why use `if–elif–else`?
+- When there are more than two choices  
+- To avoid writing multiple separate `if` statements  
+- To handle multiple decision paths  
+
+### ✔ Key Points
+| Concept        | Description                                      |
+|----------------|--------------------------------------------------|
+| if             | First condition check                            |
+| elif           | Checked only if previous condition is false      |
+| else           | Executes when all conditions are false           |
+| Execution      | Only one block runs                              |
+| Use Case       | Multiple condition decision making               |
+
+### ✔ Example Explanation
+Python checks each condition in order.  
+As soon as one condition is true, its block executes and the rest are skipped.
