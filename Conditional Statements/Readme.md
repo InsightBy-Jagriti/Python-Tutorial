@@ -97,3 +97,27 @@ If none of the conditions are true, the `else` block runs.
 ### ✔ Example Explanation
 Python checks each condition in order.  
 As soon as one condition is true, its block executes and the rest are skipped.
+
+## 🧩 Nested if Statement (Python Basics)
+
+A **Nested if statement** means placing one `if` statement inside another `if`.  
+It is used when a condition depends on another condition being true first.
+
+### ✔ Why use Nested if?
+- When decisions are dependent on previous checks  
+- For multi-level validation  
+- For step-by-step decision making  
+
+### ✔ Key Points
+| Concept        | Description                                      |
+|----------------|--------------------------------------------------|
+| Nested if      | `if` inside another `if`                         |
+| Dependency     | Inner condition runs only if outer is true       |
+| Complexity     | Used for layered logic                           |
+| Use Case       | Login checks, eligibility checks, validations    |
+
+### ✔ Example Explanation
+First, Python checks the **outer condition**.  
+If it is true, then the **inner condition** is checked.  
+If the outer condition is false, inner checks are skipped.
+
