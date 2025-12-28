@@ -98,7 +98,7 @@ If none of the conditions are true, the `else` block runs.
 Python checks each condition in order.  
 As soon as one condition is true, its block executes and the rest are skipped.
 
-## 🧩 Nested if Statement (Python Basics)
+## 🧩 Nested if Statement
 
 A **Nested if statement** means placing one `if` statement inside another `if`.  
 It is used when a condition depends on another condition being true first.
