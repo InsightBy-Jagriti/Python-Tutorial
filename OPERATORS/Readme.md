@@ -227,4 +227,30 @@ Example :-
 a = 5   # 0101
 b = 3   # 0011
 
+## 🧩 Shorthand if (Ternary Operator) – Python Basics
+
+The **Shorthand if statement**, also called the **Ternary Operator**, is a short and simple way to write an `if–else` condition in a **single line**.
+
+It is used when the decision logic is very small and clear.
+
+### ✔ Why use Shorthand if?
+- To write cleaner and shorter code  
+- For simple true/false decisions  
+- To improve readability for small conditions  
+
+### ✔ Key Points
+| Concept        | Description                                  |
+|----------------|----------------------------------------------|
+| Structure      | Condition written in one line                |
+| Replacement    | Short form of if–else                        |
+| Readability    | Best for simple conditions only              |
+| Use Case       | Assigning values based on condition          |
+
+### ✔ Example Explanation
+Python checks the condition.  
+If it is true → first value is chosen.  
+If it is false → second value is chosen.
+
+---
+
 
