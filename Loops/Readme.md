@@ -13,3 +13,10 @@ while loop
 | --------- | --------------------------------------- |
 | `for`     | Used when number of iterations is known |
 | `while`   | Used when condition controls repetition |
+
+| Feature     | for Loop          | while Loop          |
+| ----------- | ----------------- | ------------------- |
+| Control     | Iteration-based   | Condition-based     |
+| Use Case    | Known repetitions | Unknown repetitions |
+| Readability | More concise      | More flexible       |
+
