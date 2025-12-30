@@ -8,3 +8,8 @@ Python mainly provides two types of loops:
 for loop
 
 while loop
+
+| Loop Type | Purpose                                 |
+| --------- | --------------------------------------- |
+| `for`     | Used when number of iterations is known |
+| `while`   | Used when condition controls repetition |
