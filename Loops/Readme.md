@@ -81,3 +81,67 @@ The `for` loop works with sequences such as:
 | Usage | More common | More flexible |
 
 ---
+
+## 🔁 while Loop in Python
+
+The **`while` loop** is used to repeatedly execute a block of code **as long as a given condition remains true**.  
+Unlike the `for` loop, the number of iterations is **not fixed in advance**.
+
+The loop stops automatically when the condition becomes **false**.
+
+---
+
+### ✔ Why use a while loop?
+- When the number of repetitions is **unknown**
+- When looping depends on a **condition**
+- For continuous input or validation tasks
+- For menu-driven programs
+
+---
+
+### ✔ How while Loop Works (Concept)
+
+1. Python checks the condition  
+2. If the condition is **True**, the loop body executes  
+3. The condition is checked again  
+4. This continues until the condition becomes **False**
+
+---
+
+### ✔ Important Rule
+The condition **must change inside the loop**.  
+If it does not change, the loop will run forever (infinite loop).
+
+---
+
+### ✔ Common Use Cases
+- Counting until a limit is reached  
+- Repeating until user gives correct input  
+- Running programs with exit conditions  
+- Games and menu-based systems  
+
+---
+
+### ✔ Key Points
+
+| Concept | Description |
+|-------|-------------|
+| Condition | Checked before every iteration |
+| Iterations | Unknown or condition-based |
+| Control | Stops when condition becomes false |
+| Risk | Infinite loop if condition never changes |
+| Indentation | Defines loop body |
+
+---
+
+### ✔ while Loop vs for Loop
+
+| Feature | while Loop | for Loop |
+|-------|------------|----------|
+| Iterations | Unknown | Known |
+| Control | Condition-based | Sequence-based |
+| Use Case | Validation, menus | Lists, ranges |
+
+---
+
+
