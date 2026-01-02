@@ -144,4 +144,51 @@ If it does not change, the loop will run forever (infinite loop).
 
 ---
 
+**## 🔁 Do-While Loop in Python**
+
+A **do-while loop** is a control structure where the loop body **executes at least once**,  
+and the condition is checked **after** the execution.
+
+This means:
+- The code runs **first**
+- The condition is checked **later**
+- If the condition is true, the loop continues
+
+---
+
+### ❗ Important Note
+Python does **not** have a built-in `do-while` loop like C, C++, or Java.  
+However, we can **achieve the same behavior** using a `while` loop.
+
+---
+
+### ✔ How Do-While Logic Works
+
+1. Execute the loop body once  
+2. Check the condition  
+3. If the condition is true → repeat  
+4. If the condition is false → stop  
+
+This guarantees **at least one execution**.
+
+---
+
+### ✔ When Do-While Logic Is Useful
+- Menu-driven programs  
+- Input validation  
+- Password checks  
+- Programs that must run once before checking condition  
+
+---
+
+### ✔ Comparison: while vs do-while
+
+| Feature | while Loop | do-while Logic |
+|-------|------------|---------------|
+| Condition check | Before execution | After execution |
+| Executes at least once | ❌ No | ✅ Yes |
+| Native in Python | ✅ Yes | ❌ No (simulated) |
+
+---
+
 
