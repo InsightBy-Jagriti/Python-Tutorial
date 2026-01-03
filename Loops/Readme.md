@@ -191,4 +191,40 @@ This guarantees **at least one execution**.
 
 ---
 
+## 🔁 Break Statement in Python
+
+The **`break` statement** is used to stop a loop immediately.  
+As soon as Python encounters `break`, it exits the loop — even if the loop condition is still true.
+
+This makes `break` useful when you want to stop a loop early based on some condition.
+
+---
+
+### ✔ Why use `break`?
+- To stop looping when a condition is met  
+- To exit infinite loops  
+- To find the first matching item in a sequence  
+- To break only the **current** loop (not outer loops)
+
+---
+
+### ✔ Key Points
+
+| Concept | Description |
+|--------|-------------|
+| Purpose | Stops the loop immediately |
+| Works in | `for` and `while` loops |
+| After break | No further iterations are executed |
+| Nested loops | Break affects only the inner loop |
+| Common use | Validation, search, menu systems |
+
+---
+
+### ✔ Example Explanation
+`break` checks a condition inside the loop.  
+When the condition is satisfied, the loop terminates instantly and control moves outside the loop.
+
+---
+
+
 
