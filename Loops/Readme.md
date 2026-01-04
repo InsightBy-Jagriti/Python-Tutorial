@@ -226,5 +226,28 @@ When the condition is satisfied, the loop terminates instantly and control moves
 
 ---
 
+**## 🧩 pass Statement in Python**
+
+The **`pass` statement** is used as a placeholder when a block of code is required syntactically  
+but you do not want to write any logic yet.
+
+Python simply **ignores** the statement and moves on.
+
+### ✔ Why use `pass`?
+- To create empty loops
+- To define functions or classes before adding logic
+- To prevent syntax errors when a block cannot be left empty
+- For planning future code structure
+
+### ✔ Key Points
+
+| Concept | Description |
+|---------|-------------|
+| Behavior | Does nothing; acts as a placeholder |
+| Used in | Loops, functions, classes, conditionals |
+| Purpose | Avoids syntax errors while keeping structure |
+| Helpful for | Drafting code or future implementation |
+
+
 
 
