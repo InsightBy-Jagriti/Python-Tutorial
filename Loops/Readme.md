@@ -250,4 +250,38 @@ Python simply **ignores** the statement and moves on.
 
 
 
+## 🔁 Continue Statement in Python
+
+The **`continue` statement** is used to skip the **current iteration** of a loop  
+and move directly to the **next iteration**.
+
+Unlike `break`, it does **not stop the loop**, it only skips one cycle.
+
+---
+
+### ✔ Why use `continue`?
+- To skip unwanted values  
+- To ignore specific conditions  
+- To control loop flow without stopping it  
+- To clean up logic inside loops  
+
+---
+
+### ✔ Key Points
+
+| Concept | Description |
+|--------|-------------|
+| Purpose | Skips current iteration |
+| Loop type | Works in `for` and `while` |
+| Stops loop? | ❌ No |
+| Compared to break | `continue` skips, `break` exits |
+| Common use | Filtering values |
+
+
+### ✔ Example Explanation
+When a condition is met, `continue` tells Python to  
+**skip the remaining code in the loop body** and jump to the next iteration.
+
+
+
 
