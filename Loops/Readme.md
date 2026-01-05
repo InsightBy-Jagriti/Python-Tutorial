@@ -226,7 +226,7 @@ When the condition is satisfied, the loop terminates instantly and control moves
 
 ---
 
-**### 🧩 pass Statement in Python**
+ ### 🧩 pass Statement in Python**
 
 The **`pass` statement** is used as a placeholder when a block of code is required syntactically  
 but you do not want to write any logic yet.
