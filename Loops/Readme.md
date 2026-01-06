@@ -283,5 +283,45 @@ When a condition is met, `continue` tells Python to
 **skip the remaining code in the loop body** and jump to the next iteration.
 
 
+## 🔁 Nested Loops in Python
+
+A **nested loop** means placing one loop **inside another loop**.  
+The inner loop runs **completely** for each iteration of the outer loop.
+
+Nested loops are commonly used for:
+- Pattern printing
+- Working with tables or matrices
+- Comparing elements between collections
+- Multi-level data processing
+
+---
+
+### ✔ How Nested Loops Work
+
+- The **outer loop** runs first
+- For each iteration of the outer loop, the **inner loop runs fully**
+- This continues until the outer loop finishes
+
+---
+
+### ✔ Key Points
+
+| Concept | Description |
+|--------|-------------|
+| Structure | Loop inside another loop |
+| Execution | Inner loop runs multiple times |
+| Control | `break` affects only the current loop |
+| Use Case | Patterns, grids, comparisons |
+| Readability | Use carefully to avoid complexity |
+
+---
+
+### ✔ Nested Loop vs Single Loop
+
+| Feature | Single Loop | Nested Loop |
+|-------|-------------|-------------|
+| Levels | One | Multiple |
+| Complexity | Low | Higher |
+| Use Case | Simple repetition | Multi-dimensional tasks |
 
 
