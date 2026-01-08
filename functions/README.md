@@ -50,3 +50,17 @@ Functions help make code:
 | Without return | Performs task only |
 
 ---
+
+## 🔹 Function Arguments (*args, **kwargs)
+
+Python allows functions to accept a variable number of arguments.
+
+### *args
+- Used to pass multiple positional arguments
+- Stored as a tuple inside the function
+
+### **kwargs
+- Used to pass multiple keyword arguments
+- Stored as a dictionary inside the function
+
+These make functions more flexible.
