@@ -63,6 +63,8 @@ Python allows functions to accept a variable number of arguments.
 - Used to pass multiple keyword arguments
 - Stored as a dictionary inside the function## 🔹 Return vs Print
 
+---
+
 ### print
 - Displays output to the console
 - Does not send data back
