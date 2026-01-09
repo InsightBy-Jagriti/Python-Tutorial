@@ -61,6 +61,18 @@ Python allows functions to accept a variable number of arguments.
 
 ### **kwargs
 - Used to pass multiple keyword arguments
-- Stored as a dictionary inside the function
+- Stored as a dictionary inside the function## 🔹 Return vs Print
+
+### print
+- Displays output to the console
+- Does not send data back
+- Used mainly for showing results
+
+### return
+- Sends value back to the caller
+- Can be stored in a variable
+- Used for further processing
+
 
 These make functions more flexible.
+
