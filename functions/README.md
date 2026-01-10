@@ -88,6 +88,3 @@ A **lambda function** is a small, anonymous function written in a single line.
 - Used for simple operations
 - Often used with map, filter, reduce
 
----
-
-
