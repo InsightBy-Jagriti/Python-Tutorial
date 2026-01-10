@@ -78,3 +78,16 @@ Python allows functions to accept a variable number of arguments.
 
 These make functions more flexible.
 
+---
+
+## 🔹 Lambda Functions
+
+A **lambda function** is a small, anonymous function written in a single line.
+
+- No function name
+- Used for simple operations
+- Often used with map, filter, reduce
+
+---
+
+
