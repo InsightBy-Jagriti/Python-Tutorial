@@ -88,3 +88,15 @@ A **lambda function** is a small, anonymous function written in a single line.
 - Used for simple operations
 - Often used with map, filter, reduce
 
+---
+## 🔹 Scope (Local & Global)
+
+### Local Scope
+- Variables declared inside a function
+- Accessible only within that function
+
+### Global Scope
+- Variables declared outside functions
+- Accessible throughout the program
+
+The `global` keyword allows modifying global variables inside a function.
