@@ -1,4 +1,4 @@
-## 12️⃣ Modules & Packages in Python
+##  Modules & Packages in Python
 
 A **module** is a Python file that contains functions, variables, or classes.  
 A **package** is a collection of multiple modules grouped inside a folder.
