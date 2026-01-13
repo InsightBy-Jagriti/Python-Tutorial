@@ -35,3 +35,30 @@ You can import a module in different ways:
 | `import module_name as alias` | Import with a short name |
 
 ---
+
+### 🔹 What is a Package?
+
+A package is a folder containing:
+- multiple Python modules  
+- an `__init__.py` file (indicates it is a package)
+
+Example:
+my_package/
+init.py
+math_utils.py
+string_utils.py
+
+---
+
+---
+
+### 🔹 Common Built-in Modules
+- math  
+- random  
+- datetime  
+- os  
+- sys  
+
+Modules bring powerful features without needing extra code.
+
+---
