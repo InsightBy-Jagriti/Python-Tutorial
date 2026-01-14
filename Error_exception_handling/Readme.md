@@ -1,4 +1,4 @@
-## 13️⃣ Error & Exception Handling in Python
+##  Error & Exception Handling in Python
 
 Errors occur when a program cannot execute properly.  
 **Exceptions** are runtime errors that can be handled to prevent the program from crashing.
