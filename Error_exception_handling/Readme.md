@@ -29,3 +29,15 @@ Python provides tools to handle errors gracefully using:
 | Exception | Runtime error that can be handled |
 
 ---
+
+### 🔹 Exception Handling Blocks
+
+| Keyword | Purpose |
+|--------|---------|
+| try | Code that may cause an error |
+| except | Handles the error |
+| else | Runs if no error occurs |
+| finally | Always executes |
+| raise | Manually throws an exception |
+
+---
