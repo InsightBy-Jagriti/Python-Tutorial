@@ -40,4 +40,5 @@ Python provides tools to handle errors gracefully using:
 | finally | Always executes |
 | raise | Manually throws an exception |
 
+
 ---
