@@ -1,4 +1,4 @@
-## 14️⃣ File Handling in Python
+##  File Handling in Python
 
 File handling allows Python programs to **read data from files** and **write data to files**.  
 It is useful when data needs to be stored permanently or shared between programs.
