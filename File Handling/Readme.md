@@ -86,3 +86,56 @@ For safer file handling, Python also provides the `with open()` method,
 which automatically closes the file after use.
 
 ---
+
+## ➕ Appending Data to a File in Python
+
+This program shows how to **append data to an existing file** using Python file handling.
+
+When a file is opened in **append (`"a"`) mode**, Python:
+- Adds new data **at the end of the file**
+- Keeps the existing content unchanged  
+- Creates the file if it does not already exist  
+
+---
+
+### 🔹 What This Code Does
+
+- Opens `sample.txt` in append mode  
+- Adds a new line of text at the end of the file  
+- Closes the file to save changes  
+
+---
+
+### 🔹 File Mode Used
+
+| Mode | Description |
+|------|-------------|
+| `a` | Append mode (adds data without deleting existing content) |
+
+---
+
+### 🔹 Important Points
+
+- Existing data in the file is **preserved**  
+- New content is always written at the end  
+- Useful when you want to keep logs or add records  
+- File must be closed after appending to avoid data loss  
+
+---
+
+### 🔹 Use Cases
+
+- Logging program output  
+- Adding user activity records  
+- Maintaining history or reports  
+- Incremental data storage  
+
+---
+
+### 📌 Note
+
+For better safety and cleaner code,  
+the `with open()` approach is recommended for file handling.
+
+---
+
