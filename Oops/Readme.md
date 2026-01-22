@@ -1,4 +1,4 @@
-## 15️⃣ Object-Oriented Programming (OOP) in Python
+##  Object-Oriented Programming (OOP) in Python
 
 Object-Oriented Programming (OOP) is a programming approach that organizes code into **objects** and **classes**.  
 It helps in building **scalable, reusable, and real-world-based** programs.
