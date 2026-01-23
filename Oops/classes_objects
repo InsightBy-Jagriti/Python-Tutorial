@@ -1,1 +1,43 @@
+# Classes & Objects in Python
 
+# --------------------------------------------------
+# Creating a Class
+# --------------------------------------------------
+
+class Car:
+    # Attributes will be assigned through constructor later
+    def display_info(self, brand, model):
+        print("Car Brand:", brand)
+        print("Car Model:", model)
+
+
+# --------------------------------------------------
+# Creating Objects
+# --------------------------------------------------
+
+car1 = Car()
+car2 = Car()
+
+car1.display_info("Toyota", "Fortuner")
+print("----")
+car2.display_info("Honda", "City")
+
+
+# --------------------------------------------------
+# Another Example: Student Class
+# --------------------------------------------------
+
+class Student:
+    def show_details(self, name, age):
+        print("Name:", name)
+        print("Age:", age)
+
+
+student1 = Student()
+student2 = Student()
+
+student1.show_details("Jagriti", 22)
+print("----")
+student2.show_details("Alex", 21)
+
+print("\nClasses & Objects example completed.")
