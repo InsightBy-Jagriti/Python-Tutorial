@@ -50,3 +50,50 @@ An **object** is an actual student created using that blueprint.
 - Abstraction  
 
 ---
+
+## 🧱 Classes & Objects in Python
+
+A **class** is a blueprint or template used to create objects.  
+An **object** is an instance of a class that contains real data and behavior.
+
+Classes define **attributes** (data) and **methods** (functions).  
+Objects use those attributes and methods to perform actions.
+
+---
+
+## 🔹 Class vs Object
+
+| Term | Description |
+|------|-------------|
+| Class | Blueprint or design |
+| Object | Real instance of a class |
+| Attributes | Data stored in an object |
+| Methods | Functions defined in a class |
+
+---
+
+## 🔹 Why Use Classes & Objects?
+
+- Organize code better  
+- Represent real-world entities  
+- Improve reusability  
+- Make programs scalable and modular  
+
+---
+
+## 🔹 Real-World Example
+
+A **class** is like a design of a **Car**.  
+An **object** is an actual car created from that design.
+
+---
+
+## 🔹 Key Concepts
+
+- Class defines structure  
+- Object stores real values  
+- Multiple objects can be created from one class  
+- Each object has its own data  
+
+---
+
