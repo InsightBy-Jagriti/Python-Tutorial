@@ -96,4 +96,50 @@ An **object** is an actual car created from that design.
 - Each object has its own data  
 
 ---
+## 🏗 Constructors (`__init__`) in Python
+
+A **constructor** is a special method in a class that is **automatically called when an object is created**.  
+It is mainly used to **initialize object attributes**.
+
+In Python, the constructor method is named **`__init__`**.
+
+---
+
+## 🔹 Why Use a Constructor?
+
+- To assign initial values to object attributes  
+- To ensure objects start with valid data  
+- To reduce repetitive code  
+- To make object creation more organized  
+
+---
+
+## 🔹 Key Points About `__init__`
+
+| Concept | Description |
+|--------|-------------|
+| Method Name | `__init__` |
+| Called When | Object is created |
+| Purpose | Initialize object data |
+| Uses `self` | Refers to the current object |
+| Runs Automatically | Yes |
+
+---
+
+## 🔹 Constructor vs Normal Method
+
+| Feature | Constructor | Normal Method |
+|--------|------------|---------------|
+| Called Automatically | ✅ Yes | ❌ No |
+| Used for Setup | ✅ Yes | ❌ Usually no |
+| Name Fixed | `__init__` | Any name |
+
+---
+
+## 🔹 Real-World Example
+
+A constructor is like **filling a form when creating a new account** —  
+every object gets its own personalized data.
+
+---
 
