@@ -143,3 +143,52 @@ every object gets its own personalized data.
 
 ---
 
+## 🧬 Inheritance in Python
+
+**Inheritance** allows a class to **reuse properties and methods** from another class.  
+The class being inherited from is called the **Parent (Base) Class**,  
+and the class that inherits is called the **Child (Derived) Class**.
+
+This helps reduce code duplication and improves reusability.
+
+---
+
+## 🔹 Why Use Inheritance?
+
+- Reuse existing code  
+- Create hierarchical relationships  
+- Extend features of existing classes  
+- Keep programs organized and scalable  
+
+---
+
+## 🔹 Key Terms
+
+| Term | Description |
+|------|-------------|
+| Parent Class | Class being inherited from |
+| Child Class | Class that inherits features |
+| Inheritance | Process of reusing class features |
+| Override | Redefining a parent method in child |
+
+---
+
+## 🔹 Types of Inheritance
+
+| Type | Description |
+|------|-------------|
+| Single | One child inherits one parent |
+| Multiple | One child inherits multiple parents |
+| Multilevel | Child inherits from another child |
+| Hierarchical | Multiple children inherit one parent |
+
+---
+
+## 🔹 Real-World Example
+
+A **Person** class can be inherited by **Student** and **Teacher**,  
+so both reuse common behavior like name and greeting.
+
+---
+
+
