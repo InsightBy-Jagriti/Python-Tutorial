@@ -191,4 +191,41 @@ so both reuse common behavior like name and greeting.
 
 ---
 
+## 🔒 Encapsulation in Python
 
+**Encapsulation** is an OOP concept that **hides internal data** and allows access only through controlled methods.  
+It helps protect data from being modified directly and keeps code more secure and organized.
+
+Encapsulation is achieved using:
+- Public variables  
+- Protected variables (`_variable`)  
+- Private variables (`__variable`)  
+
+---
+
+## 🔹 Why Use Encapsulation?
+
+- Protects sensitive data  
+- Prevents accidental modification  
+- Improves code security  
+- Makes code easier to maintain  
+- Encourages controlled access  
+
+---
+
+## 🔹 Access Levels in Python
+
+| Type | Syntax | Meaning |
+|------|--------|--------|
+| Public | `name` | Accessible anywhere |
+| Protected | `_name` | Should be accessed inside class/subclass |
+| Private | `__name` | Accessible only inside the class |
+
+---
+
+## 🔹 Key Idea
+
+Encapsulation allows you to **control how data is accessed and changed**,  
+instead of exposing everything directly.
+
+---
