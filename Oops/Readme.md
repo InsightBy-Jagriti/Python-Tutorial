@@ -229,3 +229,42 @@ Encapsulation allows you to **control how data is accessed and changed**,
 instead of exposing everything directly.
 
 ---
+
+## 🎭 Polymorphism in Python
+
+**Polymorphism** means **one function or method behaving in different ways** depending on the object that calls it.
+
+The same method name can perform different actions for different classes.  
+This makes code more flexible, reusable, and easier to extend.
+
+---
+
+## 🔹 Why Use Polymorphism?
+
+- Write flexible and scalable code  
+- Use the same interface for different data types  
+- Reduce complexity in large programs  
+- Improve code readability  
+
+---
+
+## 🔹 Key Idea
+
+One method name → **multiple behaviors**
+
+Example:  
+A `sound()` method may work differently for **Dog**, **Cat**, and **Bird**.
+
+---
+
+## 🔹 Types of Polymorphism in Python
+
+| Type | Description |
+|------|-------------|
+| Method Overriding | Child class redefines parent method |
+| Duck Typing | Behavior matters, not object type |
+| Function Polymorphism | Same function works on multiple types |
+
+---
+
+
