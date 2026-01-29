@@ -266,5 +266,43 @@ A `sound()` method may work differently for **Dog**, **Cat**, and **Bird**.
 | Function Polymorphism | Same function works on multiple types |
 
 ---
+## 🧠 Abstraction in Python
+
+**Abstraction** means **hiding complex internal details** and showing only the **essential features** of an object.  
+It helps users interact with functionality **without needing to know how it works internally**.
+
+In Python, abstraction is implemented using:
+- Abstract classes  
+- Abstract methods  
+(from the `abc` module)
+
+---
+
+## 🔹 Why Use Abstraction?
+
+- Hides unnecessary implementation details  
+- Improves code clarity and security  
+- Encourages modular and scalable design  
+- Forces consistent structure across classes  
+
+---
+
+## 🔹 Key Concepts
+
+| Concept | Description |
+|--------|-------------|
+| Abstract Class | A class that cannot be instantiated |
+| Abstract Method | A method declared but not implemented |
+| Implementation | Child class must define abstract methods |
+
+---
+
+## 🔹 Real-World Example
+
+When you use an **ATM**, you only see options like withdraw or check balance.  
+You don’t see the **internal banking logic** — that’s abstraction.
+
+---
+
 
 
