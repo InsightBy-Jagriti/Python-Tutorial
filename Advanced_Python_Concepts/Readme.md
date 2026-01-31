@@ -39,3 +39,40 @@ Python’s `for` loop internally uses iterators to fetch items step-by-step.
 - Saves memory  
 - Works well with large data  
 - Enables lazy processing  
+
+---
+## ⚙️ Generators in Python
+
+A **generator** is a special type of function that **returns values one at a time** using the `yield` keyword.  
+Unlike normal functions, generators **pause execution** and resume from where they left off.
+
+Generators are memory-efficient and ideal for working with large data.
+
+---
+
+## 🔹 Why Use Generators?
+
+- Saves memory  
+- Produces values lazily  
+- Improves performance  
+- Useful for large or infinite data sequences  
+
+---
+
+## 🔹 Generator vs Normal Function
+
+| Feature | Normal Function | Generator |
+|--------|-----------------|-----------|
+| Uses | `return` | `yield` |
+| Memory | High | Low |
+| Execution | Runs completely | Pauses and resumes |
+| Output | Single value | Sequence of values |
+
+---
+
+## 🔹 Key Idea
+
+Each time `yield` is executed, the function state is saved.  
+On the next call, execution continues from the last `yield`.
+
+---
