@@ -39,5 +39,3 @@ Python’s `for` loop internally uses iterators to fetch items step-by-step.
 - Saves memory  
 - Works well with large data  
 - Enables lazy processing  
-
----
