@@ -76,3 +76,44 @@ Each time `yield` is executed, the function state is saved.
 On the next call, execution continues from the last `yield`.
 
 ---
+
+## 🎁 Decorators in Python
+
+A **decorator** is a function that **adds extra behavior** to another function **without modifying its code**.  
+Decorators wrap a function and extend its functionality in a clean and reusable way.
+
+Decorators are widely used for:
+- logging
+- authentication
+- performance timing
+- access control
+
+---
+
+## 🔹 Why Use Decorators?
+
+- Keep code clean and DRY  
+- Reuse common functionality  
+- Separate concerns (logic vs extra behavior)  
+- Improve readability and maintenance  
+
+---
+
+## 🔹 How Decorators Work (Concept)
+
+1. A function is passed as an argument  
+2. Another function wraps it  
+3. Extra behavior runs **before or after** the original function  
+
+---
+
+## 🔹 Decorator Syntax
+
+| Concept | Description |
+|--------|-------------|
+| Wrapper function | Adds extra behavior |
+| `@decorator` | Cleaner decorator syntax |
+| Inner function | Executes original function |
+
+---
+
