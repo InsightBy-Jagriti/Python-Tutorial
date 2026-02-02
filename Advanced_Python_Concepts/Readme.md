@@ -117,3 +117,44 @@ Decorators are widely used for:
 
 ---
 
+## ⚡ Comprehensions in Python
+
+Comprehensions provide a **short and readable way** to create collections in Python.  
+They replace longer loops with a **single, clean expression**.
+
+Python supports:
+- List Comprehension
+- Set Comprehension
+- Dictionary Comprehension
+
+---
+
+## 🔹 Why Use Comprehensions?
+
+- Write less code  
+- Improve readability  
+- Faster and more efficient  
+- Express logic clearly in one line  
+
+---
+
+## 🔹 Types of Comprehensions
+
+| Type | Creates |
+|------|---------|
+| List Comprehension | List |
+| Set Comprehension | Set |
+| Dictionary Comprehension | Dictionary |
+
+---
+
+## 🔹 Key Idea
+
+Comprehensions follow this pattern:
+- Expression
+- Loop
+- Optional condition
+
+They are best used when logic is simple and readable.
+
+---
