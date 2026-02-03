@@ -158,3 +158,46 @@ Comprehensions follow this pattern:
 They are best used when logic is simple and readable.
 
 ---
+
+## 🔧 map(), filter(), reduce() in Python
+
+`map()`, `filter()`, and `reduce()` are **functional programming tools** used to process collections like lists and tuples in a clean and efficient way.
+
+They help apply logic to data **without writing explicit loops**.
+
+---
+
+## 🔹 map()
+
+`map()` applies a function to **each element** of an iterable and returns a new iterable.
+
+**Use when:** you want to transform data.
+
+---
+
+## 🔹 filter()
+
+`filter()` selects elements from an iterable **based on a condition**.
+
+**Use when:** you want to keep only matching items.
+
+---
+
+## 🔹 reduce()
+
+`reduce()` applies a function **cumulatively** to elements and returns a **single value**.
+
+**Use when:** you want to reduce a collection to one result (sum, product, etc.).
+
+---
+
+## 🔹 Comparison
+
+| Function | Input | Output | Purpose |
+|---------|-------|--------|---------|
+| map | Iterable | Iterable | Transform items |
+| filter | Iterable | Iterable | Select items |
+| reduce | Iterable | Single value | Combine items |
+
+---
+
