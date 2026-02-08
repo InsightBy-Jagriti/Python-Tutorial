@@ -57,3 +57,37 @@ Pandas provides:
 
 ---
 
+## ⚙️ NumPy Advanced Concepts
+
+Advanced NumPy focuses on **efficient array operations**, **performance optimization**, 
+and **handling multi-dimensional data**.
+
+These concepts are heavily used in:
+- Data Science
+- Machine Learning
+- Scientific Computing
+- Image Processing
+
+---
+
+## 🔹 Topics Covered
+
+- Array indexing & slicing
+- Boolean masking
+- Reshaping arrays
+- Broadcasting
+- Vectorized operations
+- Axis-based operations
+- Stacking & splitting arrays
+
+---
+
+## 🔹 Why Advanced NumPy?
+
+- Faster than Python loops
+- Optimized memory usage
+- Clean and readable mathematical code
+- Essential for ML & data analysis
+
+---
+
