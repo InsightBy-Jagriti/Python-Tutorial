@@ -91,3 +91,37 @@ These concepts are heavily used in:
 
 ---
 
+## 📊 Pandas Advanced Concepts
+
+Advanced Pandas focuses on **real-world data analysis tasks** such as
+grouping data, combining datasets, applying custom logic, and handling missing values.
+
+These concepts are widely used in:
+- Data Analysis
+- Business Intelligence
+- Data Science
+- Machine Learning pipelines
+
+---
+
+## 🔹 Topics Covered
+
+- GroupBy operations
+- Merge & Join datasets
+- Apply, Map, and Applymap
+- Handling missing values
+- Sorting & ranking
+- Aggregation functions
+- Date & time handling
+
+---
+
+## 🔹 Why Advanced Pandas?
+
+- Analyze large datasets efficiently
+- Perform complex transformations
+- Combine multiple data sources
+- Extract meaningful insights
+
+---
+
