@@ -38,3 +38,51 @@ Python’s two most popular libraries:
 - Box plot
 
 ---
+
+## 🌊 Seaborn in Python (Detailed Guide)
+
+Seaborn is a high-level data visualization library built on top of Matplotlib.
+It provides beautiful statistical plots with less code.
+
+Seaborn is widely used in:
+- Exploratory Data Analysis (EDA)
+- Data Science projects
+- Machine Learning visualization
+- Business analytics
+
+---
+
+## 🔹 Why Use Seaborn?
+
+- Cleaner default styles
+- Built-in statistical plotting
+- Easy integration with Pandas
+- Less code for complex visuals
+
+---
+
+## 🔹 Common Plot Types
+
+| Plot | Use Case |
+|------|----------|
+| lineplot | Trend over time |
+| barplot | Category comparison |
+| scatterplot | Relationship analysis |
+| histplot | Distribution analysis |
+| boxplot | Spread and outliers |
+| pairplot | Multi-variable analysis |
+| heatmap | Correlation matrix |
+
+---
+
+## 🔹 Matplotlib vs Seaborn
+
+| Feature | Matplotlib | Seaborn |
+|----------|------------|----------|
+| Complexity | Medium | Simple |
+| Styling | Manual | Automatic |
+| Statistical plots | Basic | Advanced |
+| Integration | General | Pandas-friendly |
+
+---
+
